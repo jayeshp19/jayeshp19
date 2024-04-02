@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Jayesh Parmar.
 
 ### About
-- Pursuing B.Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
-- launguage skills : `C/C++`, `Javascript`, `Python`
+- Pursued B.Tech in Computer Engineering at Dharmsinh Desai University, Nadiad
+- launguage/skills : `Typescript`, `Javascript`, `Python`,`AWS`
