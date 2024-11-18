@@ -1,3 +1,1 @@
-I built an IVR system for home healthcare using AWS and Twilio, that managed over 12 million monthly calls and 295 million Lambda invocations.
-
-Currently exploring on Applied AI projects. reach out to me via Twitter, LinkedIn. 
+Built and managed an IVR system handling 12M+ monthly calls and 295M Lambda invocations. Now exploring Applied AI projects. Connect on [Twitter](https://twitter.com/jayeshpx) or [LinkedIn](https://www.linkedin.com/in/jayeshpx).
