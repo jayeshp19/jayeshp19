@@ -1,1 +1,1 @@
-Built and managed an IVR system handling 12M+ monthly calls and 295M Lambda invocations. Now exploring Applied AI projects. Connect on [Twitter](https://twitter.com/jayeshpx) or [LinkedIn](https://www.linkedin.com/in/jayeshpx).
+
